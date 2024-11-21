@@ -14,7 +14,7 @@
 using namespace std;
 
 //Node class definition
-class Nodeaskldfhskhfjkadh4
+class Node
 {
 public:
     char data[30];
