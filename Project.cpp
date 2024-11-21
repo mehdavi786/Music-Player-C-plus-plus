@@ -14,7 +14,7 @@
 using namespace std;
 
 //Node class definition
-class Node
+class Nodeaskldfhskhfjkadh4
 {
 public:
     char data[30];
@@ -754,7 +754,8 @@ void displaymenu()
         }
         else if (choice == 5)
         {
-            system("cls");            deleteplaylist();
+            system("cls");
+            deleteplaylist();
         }
         else if (choice == 6)
         {
